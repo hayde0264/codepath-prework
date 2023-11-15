@@ -21,9 +21,20 @@ https://github.com/hayde0264/codepath-prework/assets/109105989/beeaeb07-1852-467
 
 ## App Brainstorming (Step 4)
 
-**Instagram**
-Changing the background color of the messages screen
-Deleting old messages
+### Visual Studio Code
+- Great support for all programming languages
+- Awesome plug-ins
+- Lightweight
+
+### Spotify 
+- Colors
+- AI recommened playlists
+
+### Pages 
+- A Microsoft Word Alternative
+- Simple to use
+- 
+I want to build some kind of financial app. Whether that be an app that monitors stocks in an advanced way, an app that recommends and provides a way for you to allocate your money, or an app that, at the end of the month, provides a breakdown of the users spending. In this app, I want to create a simple yet appealing front-end and a fast, secure, and accurate back-end. 
 
 ## Notes
 
