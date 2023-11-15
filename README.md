@@ -15,12 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 212.66968325791856%; height: 0;">
 
-<embed src="https://www.loom.com/embed/30e4e16eab7341b4bf7e4bd8dd318d54?sid=deebb851-ed92-4440-a4d4-ec5e92a49e5f"
-onerror="alert('URL invalid !!');" />
-
-</div>
+<embed src="https://www.loom.com/embed/30e4e16eab7341b4bf7e4bd8dd318d54?sid=deebb851-ed92-4440-a4d4-ec5e92a49e5f" width=200 height=200 />
 
 ## App Brainstorming (Step 4)
 
