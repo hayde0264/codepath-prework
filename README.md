@@ -2,7 +2,7 @@
 
 Submitted by: **Hayden Howell**
 
-**IOS App Demo** is an app that uses three labels and a button. The labels are *Hayden Howell*, *Oregon State University*, and *Software Engineer*. The button, titled *change*, is an interactive button that, when pressed, changes the background color. 
+**IOS App Demo** is an app that uses three labels and a button. The labels are <code>Hayden Howell</code>, <code>Oregon State University</code>, and <code>Software Engineer</code>. The button, titled <code>change</code>, is an interactive button that, when pressed, changes the background color. 
 
 Time spent: **2** hours spent in total
 
