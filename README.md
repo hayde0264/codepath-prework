@@ -1,4 +1,4 @@
-# Prework - *IOS App Demo*
+# Prework - IOS App Demo
 
 Submitted by: **Hayden Howell**
 
