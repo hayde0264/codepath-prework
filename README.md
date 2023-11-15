@@ -34,7 +34,6 @@ Pages
 - A Microsoft Word Alternative
 - Simple to use
 
-Personal App
 I want to build some kind of financial app. Whether that be an app that monitors stocks in an advanced way, an app that recommends and provides a way for you to allocate your money, or an app that, at the end of the month, provides a breakdown of the users spending. In this app, I want to create a simple yet appealing front-end and a fast, secure, and accurate back-end. 
 
 ## Notes
