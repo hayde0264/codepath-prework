@@ -17,7 +17,6 @@ The following **required** functionality is completed:
 
 
 
-https://github.com/hayde0264/codepath-prework/assets/109105989/56230730-bbcd-4bd3-81ed-5cdaa7ffa5f3
 
 
 
