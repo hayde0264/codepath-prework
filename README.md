@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-The main challenge I faced when making this app was adding the video walkthrough with Loom. But, after reading a few articles and watching the video provided by Codepath, I got it to work. 
+The main challenge I faced when making this app was adding the video walkthrough to the README properly. But, after reading a few articles and watching the video provided by Codepath, I got it to work. 
 
 ## License
 
