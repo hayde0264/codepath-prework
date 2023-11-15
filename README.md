@@ -21,16 +21,16 @@ https://github.com/hayde0264/codepath-prework/assets/109105989/beeaeb07-1852-467
 
 ## App Brainstorming (Step 4)
 
-### Visual Studio Code
+Visual Studio Code
 - Great support for all programming languages
 - Awesome plug-ins
 - Lightweight
 
-### Spotify 
+Spotify 
 - Colors
 - AI recommened playlists
 
-### Pages 
+Pages 
 - A Microsoft Word Alternative
 - Simple to use
 - 
