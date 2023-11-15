@@ -16,8 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 
-
-
+https://github.com/hayde0264/codepath-prework/assets/109105989/beeaeb07-1852-4672-b19e-0268a4042287
 
 
 ## App Brainstorming (Step 4)
