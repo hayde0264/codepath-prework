@@ -1,16 +1,16 @@
-# Prework - *Name of App Here*
+# Prework - *IOS App Demo*
 
 Submitted by: **Hayden Howell**
 
-**Name of your app** is an app that... [TODO] 
+**IOS App Demo** is an app that uses three labels and a button. The labels are *Hayden Howell*, *Oregon State University*, and *Software Engineer*. The button, titled *change*, is an interactive button that, when pressed, changes the background color. 
 
-Time spent: **1.5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
+- [ ] Users will see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge I faced when making this app was adding the video walkthrough with Loom. But, after reading a few articles and watching the video provided by Codepath, I got it to work. 
 
 ## License
 
