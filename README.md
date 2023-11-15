@@ -21,9 +21,13 @@ https://github.com/hayde0264/codepath-prework/assets/109105989/beeaeb07-1852-467
 
 ## App Brainstorming (Step 4)
 
+**Instagram**
+Changing the background color of the messages screen
+Deleting old messages
+
 ## Notes
 
-The main challenge I faced when making this app was adding the video walkthrough to the README properly. But, after reading a few articles and watching the video provided by Codepath, I got it to work. 
+I enjoyed this assessment of my current IOS skills. 
 
 ## License
 
