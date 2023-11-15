@@ -15,7 +15,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<iframe width="640" height="339" src="https://www.loom.com/embed/30e4e16eab7341b4bf7e4bd8dd318d54?sid=deebb851-ed92-4440-a4d4-ec5e92a49e5f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+https://github.com/hayde0264/codepath-prework/assets/109105989/56230730-bbcd-4bd3-81ed-5cdaa7ffa5f3
+
+
 
 ## App Brainstorming (Step 4)
 
